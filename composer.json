@@ -1,0 +1,13 @@
+{
+    "name": "schnittstabil/return-type-hint-test",
+    "authors": [
+        {
+            "name": "Michael Mayer",
+            "email": "michael@schnittstabil.de"
+        }
+    ],
+    "require": {
+        "http-interop/http-middleware": "^0.3.0",
+        "zendframework/zend-diactoros": "^1.3"
+    }
+}
